@@ -1,2 +1,5 @@
-# dio-desafio-github00
-Desafio de projeto dio
+# dio-desafio-git/github
+Desafio de Projeto DIO
+
+## Links Úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
