@@ -1,0 +1,17 @@
+dir ou ls: lista os diretórios
+cd: navega entre pastas
+cd.. ou cd/: Retornar pastas
+clear ou Ctrl+l: limpa o terminal
+mkdir: Cria pastas
+rm -rf: apaga pastas e seus arquivos subsequentes
+git init: inicia um repositório local git
+git status: verifica o estado dos arquivos
+git add <nome do arquivo>: envia o arquivo especificado para o Stage
+git add - -all: envia todos os arquivos para o Stage
+git commit -m “título do commit: envia o que está no Stage para o HEAD
+git remote add origin URL do Repositorio: adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
+git push origin master: envia os arquivos para o repositório remoto especifico através da URL do comando acima
+git checkout -b <nome da branch>: cria uma nova branch
+git checkout <nome da branch>: alterna para a branch especificada
+
+fonte: https://medium.com/@andradegabriela20/o-que-%C3%A9-git-git-bash-e-comandos-b%C3%A1sicos-94a53de6d376
